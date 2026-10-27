@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrainyUnicorn
 - 👀 I’m interested in Machine Learning and Computer Vision
-- 🌱 I’m currently studying a Bsc in Computer Science and AI 
+- 🌱 I’m currently studying a Msc in Computer Science and AI 
 - 💞️ I’m looking to collaborate on anything interesting 
 
 
